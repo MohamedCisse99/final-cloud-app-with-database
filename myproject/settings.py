@@ -27,7 +27,7 @@ SECRET_KEY = 'aay0j_9b&ky3a7(8m8il+-1ud(scw12@w5!+5-=gsk6ynzi0ls'
 DEBUG = True
 
 # <HINT> add your cloud host here
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'p8080-49dc43eb-9a4a-4477-872d-7a19277b0c82.dp1.eu-de.shell.cloud.ibm.com']
 
 
 # Application definition
